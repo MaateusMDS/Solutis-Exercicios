@@ -1,11 +1,11 @@
 //2. Calcule e exiba a quantidade de salários mínimos que um determinado funcionário ganha.
 //        Para isto, peça o valor do seu salário e o valor do salário mínimo atual.
 
-package conjunto_um;
+package conjuntos.um;
 
 import java.util.Scanner;
 
-public class Exercicio2 {
+public class ExercicioDois {
     public static void main(String[] args) {
 
         var entrada = new Scanner(System.in);

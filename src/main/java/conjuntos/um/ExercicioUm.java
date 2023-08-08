@@ -1,11 +1,11 @@
 //        1. Determine qual é a idade que o usuário faz no ano atual. Para isso solicite o seu ano de
 //        nascimento e o ano atual.
 
-package conjunto_um;
+package conjuntos.um;
 
 import java.util.Scanner;
 
-public class Exercicio1 {
+public class ExercicioUm {
     public static void main(String[] args) {
         var entrada = new Scanner(System.in);
 
